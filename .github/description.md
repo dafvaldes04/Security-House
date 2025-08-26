@@ -1,0 +1,1 @@
+Sistema inteligente para la seguridad del hogar que integra sensores, automatización y monitoreo remoto. Desarrollado con arquitectura modular y comunicación segura para protección y control en tiempo real.
